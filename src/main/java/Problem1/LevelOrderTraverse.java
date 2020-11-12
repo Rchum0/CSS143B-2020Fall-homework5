@@ -7,6 +7,22 @@ public class LevelOrderTraverse {
     public static List<List<Integer>> levelOrder(TreeNode<Integer> root) {
         // homework
         List<List<Integer>> result = new ArrayList<>();
+        //Queue<TreeNode>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         return result;  // place holder
     }
 }
